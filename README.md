@@ -1,2 +1,1 @@
-# NextTest
-Testing building a site with NextJS and hopefully typescript
+Playing around wtih things. Right now it just has three links (github, linkedin, and medium)
