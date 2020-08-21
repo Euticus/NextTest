@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Menu from './menu'
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
      
         </p>
         <div className="grid">
+          <Menu />
     
           <a href="https://github.com/euticus" className="card">
             <h3>Github &rarr;</h3>
